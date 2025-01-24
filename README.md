@@ -23,7 +23,7 @@
 JavaScript Java Kotlin PHP Python HTML5 React NextJs JQuery CSS3 Sass Bootstrap TailwindCSS Material UI Webpack NodeJS GraphQL Oracle MongoDB MySQL PostgreSQL Firebase Heroku Flask Django Laravel Alchemy
 
 📫 How to reach me:  
-- Email: [your-email@example.com](jmatini68@gmail.com)  
+- Email: [jmatini68@gmail.com] 
 
 ⚡ Fun fact:  
 - I enjoy solving complex logic puzzles, participating in hackathons, and turning ideas into practical solutions.  

@@ -19,6 +19,7 @@
 - Mentorship opportunities to guide budding developers
 
   Skills
+  
 JavaScript Java Kotlin PHP Python HTML5 React NextJs JQuery CSS3 Sass Bootstrap TailwindCSS Material UI Webpack NodeJS GraphQL Oracle MongoDB MySQL PostgreSQL Firebase Heroku Flask Django Laravel Alchemy
 
 📫 How to reach me:  

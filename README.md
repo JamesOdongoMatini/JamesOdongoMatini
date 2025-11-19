@@ -1,4 +1,4 @@
-👋 Hi, I’m James Odongo Matini (@JamesOdongoMatini)  
+👋 Hi, I’m James Odongo Matini   
 
 👀 I’m interested in:  
 - Software development and scalable backend engineering  
